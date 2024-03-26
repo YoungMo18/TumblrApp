@@ -2,7 +2,7 @@
 
 Submitted by: **Mo Putra**
 
-**Name of your app** is an app that allows users to look at posts from Tumblr
+**TumblrApp** is an app that allows users to look at posts from Tumblr
 
 Time spent: **1** hours spent in total
 
