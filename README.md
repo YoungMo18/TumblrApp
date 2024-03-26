@@ -24,7 +24,6 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
 <div>
     <a href="https://www.loom.com/share/1a608710266448bea1cf58a2137153bb">
       <p>Loom | Free Screen & Video Recording Software | Loom - 25 March 2024 - Watch Video</p>
@@ -33,6 +32,7 @@ The following **additional** features are implemented:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1a608710266448bea1cf58a2137153bb-00001.jpg">
     </a>
   </div>
+  
 
 ## Notes
 
