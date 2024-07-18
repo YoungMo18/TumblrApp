@@ -3,14 +3,6 @@ Made by: **Mo Putra (Young)**
 
 **TumblrApp** is an app that allows users to look at posts from Tumblr
 
-## Required Features
-
-The following **required** functionality is completed:
-
-- [x] App has a configured table view and table view call
-- [x] App populates the table view with data fetched from an API
-
-
 ## Video Walkthrough
 <div>
     <a href="https://www.loom.com/share/1a608710266448bea1cf58a2137153bb">
