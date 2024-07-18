@@ -1,10 +1,7 @@
-# Project 5 - *TumblrApp*
-
-Submitted by: **Mo Putra**
+# *TumblrApp*
+Made by: **Mo Putra**
 
 **TumblrApp** is an app that allows users to look at posts from Tumblr
-
-Time spent: **1** hours spent in total
 
 ## Required Features
 
@@ -13,15 +10,6 @@ The following **required** functionality is completed:
 - [x] App has a configured table view and table view call
 - [x] App populates the table view with data fetched from an API
 
-
-The following **optional** features are implemented:
-
-- [ ] App fetches posts from a different Tumblr blog
-- [ ] App has a refresh control to update the table view
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 <div>
