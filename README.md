@@ -1,5 +1,5 @@
 # *TumblrApp*
-Made by: **Mo Putra**
+Made by: **Mo Putra (Young)**
 
 **TumblrApp** is an app that allows users to look at posts from Tumblr
 
